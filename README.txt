@@ -1,1 +1,2 @@
-currency exchanger, changes any listed currency dsvsadf
+This currency exchanger takes your starting currency and your amount, then it takes your desired currency and outputs the worth in that currency
+on startup, input "round" to toggle 2 decimal rounding on or off, default set to on
